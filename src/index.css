@@ -1,0 +1,9 @@
+body {
+    background-color: #c6e2ff;
+}
+
+.hello-world{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Gotham Pro";
+}
